@@ -4,7 +4,7 @@ These are the examples used in the puppet webinar by Franz Pletz.
 
 ## Usage
 
-First don't forget to init/update the git submodules:
+Don't forget to init/update the git submodules:
 
     $ git submodule update --init
 
